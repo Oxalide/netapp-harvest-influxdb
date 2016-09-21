@@ -50,8 +50,8 @@ Using database graphite
 And there you should have some results.
 
 # Getting started with Grafana
-There's an example dashboard in netapps_overview_harvest.json. Open it and change every occurence of "InfluxDB graphite" with your datasource name, and then import it to Grafana.
+There's an example dashboard in [netapps_overview_harvest.json](./netapps_overview_harvest.json). Open it and change every occurence of "InfluxDB graphite" with your datasource name, and then import it to Grafana.
 
 
 # License
-This project is licensed under the MIT License, available in (LICENSE.txt](./LICENSE.txt
+This project is licensed under the MIT License, available in (LICENSE.txt](./LICENSE.txt)
